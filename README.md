@@ -21,7 +21,6 @@ Just the extra code added by the exe compiler. Not used for any functions.
 
 #Copyright:
  * Copyright (C) HexagonMC Networks Systems - All Rights Reserved
- * Unauthorized copying of this file, via any medium is strictly prohibited
- * Proprietary and confidential
+ * Unauthorized copying of this file, via any medium is strictly prohibited.
+   Proprietary and confidential
  * Written by Dylan Kok <dylankjy@yahoo.co.jp>, August 2016
- *
